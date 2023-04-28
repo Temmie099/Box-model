@@ -1,0 +1,36 @@
+#div{
+    width: 200px;
+    height: 200px;
+    }
+    
+#div2{
+    width: 200px;
+    height: 200px;
+
+}
+
+#div3{
+    width: 200px;
+    height: 200px;
+    
+}
+
+#div4{
+position:absolute;
+right: 150px;
+top:10px;
+}
+#div5{
+position: absolute;
+right: 150px;
+top:200px;
+}
+#div6{
+    position: absolute;
+    right: 150px;
+    top:400px;
+    }
+#body{
+background-image: url(https://i0.wp.com/www.moviescramble.co.uk/wp-content/uploads/2015/08/spongebob-3.jpg);
+background-size:1100px;
+}
